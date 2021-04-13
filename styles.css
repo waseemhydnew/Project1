@@ -1,0 +1,100 @@
+/* font-family: 'ABeeZee', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Merienda', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+/* header */
+li{
+  color: white;
+}
+.fas{
+  color: red;
+}
+.fab{
+  color: white;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+}
+/* headertwo */
+.socialicon{
+  margin: 0px 10px 0px 10px;
+}
+/* carousel sliders */
+.carousel-inner > .item > img {
+  width:100%;
+  height:570px;
+}
+/* Middle */
+.Middlea{
+  padding: 0 70px 30px 70px;
+  border: 1px solid black;
+}
+hr{
+  width: 30%;
+  border-top: 3px solid orange;
+}
+/* what */
+.what{
+  padding-top: 100px;
+}
+#whataimage{
+  position: absolute;
+  height: 350px;
+  width: 500px;
+}
+.whatmatter{
+  position: relative;
+  width: 45%;
+  text-align: left;
+  margin-left : 550px;
+}
+/* black matter */
+.black-heading{
+  padding-top: 100px;
+  text-align: center;
+}
+h1{
+  font-size: 2.5rem;
+}
+.atom{
+  border: 1px solid black;
+}
+.black-matter.li{
+  color: #194350;
+  background-image: url(http://getwallpapers.com/wallpaper/full/6/3/3/539591.jpg);
+}
+.read-more{
+  color: red;
+}
+/* projects */
+.projects{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.imagi{
+  height: 400px;
+  width: 360px;
+}
+.btn{
+  margin-left: 900px;
+}
+/* clients */
+.clients{
+  text-align: center;
+}
+#need, #needa{
+  padding: 25px;
+}
+/* contact */
+#contactimg{
+  height: 600px;
+  width: 500px;
+}
+.contact{
+  padding-top: 100px;
+/* footer */
+span{
+  margin-left: 700px;
+}
